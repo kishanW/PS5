@@ -1,0 +1,17 @@
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\PS5.exe
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\PS5.deps.json
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\PS5.runtimeconfig.json
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\PS5.runtimeconfig.dev.json
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\PS5.dll
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\PS5.pdb
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.csprojAssemblyReference.cache
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.AssemblyInfoInputs.cache
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.AssemblyInfo.cs
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.csproj.CoreCompileInputs.cache
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.csproj.CopyComplete
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.dll
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.pdb
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\obj\Debug\netcoreapp3.1\PS5.genruntimeconfig.cache
+C:\Users\kwanigasinghe\Documents\GitHub\PS5\PS5\bin\Debug\netcoreapp3.1\web-drivers\chromedriver.exe
