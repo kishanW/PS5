@@ -60,7 +60,7 @@ namespace PS5
 			}
 
 			driver.ChallengeDetection();
-			driver.TryGoHere(DualShock4Url);
+			driver.TryGoHere(PS5Url);
 
 			TryAddToCart(driver, RetryEvery, BatchReties, BatchSleep);
 		}
