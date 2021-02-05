@@ -131,9 +131,10 @@ namespace PS5
 			driver.Navigate().GoToUrl("https://accounts.google.com/");
 			Thread.Sleep(TimeSpan.FromSeconds(2));
 
-			var emailInput = driver.FindElements(By.CssSelector("input[type='email']")).FirstOrDefault();
+			//enable below and add your email address if you want to hardcode your email address
+			//var emailInput = driver.FindElements(By.CssSelector("input[type='email']")).FirstOrDefault();
 			//if (emailInput != null)
-			//	emailInput.SendKeys("radheekakishan@gmail.com");
+			//	emailInput.SendKeys("your-email-address");
 
 			Thread.Sleep(TimeSpan.FromSeconds(5));
 		}
